@@ -1,0 +1,6 @@
+# Node dependencies
+01-docker/02-ngnix-with-node/node-app/node_modules/
+
+# MySQL files
+01-docker/02-ngnix-with-node/mysql/mysql-files/
+
