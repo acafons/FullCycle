@@ -3,5 +3,5 @@
 ## Running the application:
 
 ``` bash
-docker-compose up -d
+docker compose up -d
 ```
