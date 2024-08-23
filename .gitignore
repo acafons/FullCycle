@@ -4,3 +4,6 @@
 # MySQL files
 01-docker/02-ngnix-with-node/mysql/mysql-files/
 
+# History
+01-docker/02-ngnix-with-node/.history/
+
