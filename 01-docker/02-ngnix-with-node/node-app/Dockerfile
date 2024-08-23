@@ -8,4 +8,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["node", "index.js"]
+CMD ["/home/node/app/.docker/entrypoint.sh"]
